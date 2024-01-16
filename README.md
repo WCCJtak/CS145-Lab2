@@ -1,0 +1,6 @@
+# Lab2
+For lab 2, you will write a card shuffling and dealing program using arrays and classes. You will be building off of some code found in the textbook. For this lab you must complete exercise 7.17 (which requires you to do exercise 7.16) on page 285 of the textbook. For one additional point of extra credit per exercise, you can complete exercises 7.18, 7.19, or 7.20 for a possible total of 23 points.
+
+You will turn in three java files that work together. One will be an object class, Card.java, similar to the one in figure 7.11. The second will be a manager class named DeckOfCards.java based off of figure 7.12 with added functionality. The third will be a game/test class containing the main method based off of figure 7.13. You are free to choose the name of this class and will modify it and add functionality as you move through the exercises. The main method should hold the high level functioning of the program but remain relatively small, calling out to helper methods as needed. In the header comment for this class you must specify which exercises you completed and, if you're aware of any missing or broken functionality, tell me there. I expect your code to maintain good style.
+
+Feel free to come look at my copy of the textbook during class if you need to see the figures and exercises.
